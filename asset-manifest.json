@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/astomak/RoboFriends/static/css/main.55ef09f2.chunk.css",
+    "main.js": "/astomak/RoboFriends/static/js/main.089cd6f9.chunk.js",
+    "main.js.map": "/astomak/RoboFriends/static/js/main.089cd6f9.chunk.js.map",
+    "runtime-main.js": "/astomak/RoboFriends/static/js/runtime-main.3b3e4451.js",
+    "runtime-main.js.map": "/astomak/RoboFriends/static/js/runtime-main.3b3e4451.js.map",
+    "static/js/2.5e776654.chunk.js": "/astomak/RoboFriends/static/js/2.5e776654.chunk.js",
+    "static/js/2.5e776654.chunk.js.map": "/astomak/RoboFriends/static/js/2.5e776654.chunk.js.map",
+    "index.html": "/astomak/RoboFriends/index.html",
+    "precache-manifest.1d0e505f47d4973c6c1c348d436990f3.js": "/astomak/RoboFriends/precache-manifest.1d0e505f47d4973c6c1c348d436990f3.js",
+    "service-worker.js": "/astomak/RoboFriends/service-worker.js",
+    "static/css/main.55ef09f2.chunk.css.map": "/astomak/RoboFriends/static/css/main.55ef09f2.chunk.css.map",
+    "static/js/2.5e776654.chunk.js.LICENSE.txt": "/astomak/RoboFriends/static/js/2.5e776654.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/astomak/RoboFriends/static/media/InhumanBB_ital.92c62640.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3e4451.js",
+    "static/js/2.5e776654.chunk.js",
+    "static/css/main.55ef09f2.chunk.css",
+    "static/js/main.089cd6f9.chunk.js"
+  ]
+}
