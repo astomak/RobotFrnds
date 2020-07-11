@@ -1,0 +1,11 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(InhumanBB_ital.ttf);
+}
+.text-extralarge {
+    font-size: 5rem;
+}
+#header{
+    background: linear-gradient(to right, rgb(53, 160, 94), rgb(89, 80, 146));
+    font-family: myFirstFont;
+}
